@@ -1,13 +1,13 @@
 ﻿{
   "posts": [
     {
-      "Id": 001086026034,
+      "id": 001086026034,
       "Name": "Nguyễn Phương Tiện",
       "SoLanTiemChung": 2,
       "KetQua": "Âm tính"
     },
     {
-      "Id": 001186012004,
+      "id": 001186012004,
       "Name": "Đoàn Thị Oanh",
       "SoLanTiemChung": 2,
       "KetQua": "Âm tính"
