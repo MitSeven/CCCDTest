@@ -2,9 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "Name": "Nguyễn Phương Tiện",
-      "SoLanTiemChung": 2,
-      "KetQua": "Âm tính"
+      "title": "hello"
     }
   ],
   "profile": {
